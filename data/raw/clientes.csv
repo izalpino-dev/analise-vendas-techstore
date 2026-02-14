@@ -1,0 +1,1001 @@
+id_cliente,idade,cidade,estado,data_cadastro
+1,25,São Paulo,MG,2023-11-24
+2,32,Rio de Janeiro,SP,2023-05-06
+3,52,São Paulo,BA,2023-12-13
+4,20,São Paulo,SP,2023-08-05
+5,32,Salvador,BA,2023-04-22
+6,53,Rio de Janeiro,BA,2023-01-14
+7,32,Curitiba,BA,2023-08-03
+8,18,Rio de Janeiro,PR,2023-05-23
+9,35,Rio de Janeiro,RJ,2023-06-24
+10,24,São Paulo,PR,2023-06-22
+11,40,Belo Horizonte,BA,2023-02-19
+12,20,Curitiba,BA,2023-05-16
+13,42,São Paulo,BA,2023-03-05
+14,58,Salvador,MG,2023-05-31
+15,30,São Paulo,SP,2023-10-23
+16,32,Belo Horizonte,SP,2023-12-05
+17,24,Curitiba,MG,2023-04-30
+18,58,Belo Horizonte,RJ,2023-08-21
+19,40,Rio de Janeiro,MG,2023-07-09
+20,59,São Paulo,BA,2023-12-26
+21,28,Salvador,RJ,2023-11-22
+22,47,Curitiba,MG,2023-03-25
+23,53,Rio de Janeiro,MG,2023-11-24
+24,32,São Paulo,MG,2023-01-29
+25,35,São Paulo,RJ,2023-07-25
+26,38,Rio de Janeiro,PR,2023-10-18
+27,59,Curitiba,RJ,2023-07-22
+28,26,Rio de Janeiro,BA,2023-05-16
+29,34,Salvador,PR,2023-10-03
+30,43,Belo Horizonte,RJ,2023-10-26
+31,50,Curitiba,SP,2023-03-12
+32,25,Rio de Janeiro,RJ,2023-01-25
+33,45,Salvador,SP,2023-12-15
+34,42,Salvador,PR,2023-07-17
+35,34,Salvador,SP,2023-09-28
+36,25,Salvador,MG,2023-12-15
+37,39,São Paulo,MG,2023-11-25
+38,28,Curitiba,SP,2023-08-11
+39,50,Rio de Janeiro,BA,2023-05-15
+40,58,Belo Horizonte,BA,2023-02-24
+41,30,Rio de Janeiro,MG,2023-11-08
+42,52,Salvador,SP,2023-03-24
+43,38,Curitiba,SP,2023-11-03
+44,41,Belo Horizonte,RJ,2023-02-27
+45,33,Salvador,SP,2023-01-30
+46,49,São Paulo,BA,2023-02-13
+47,26,Curitiba,BA,2023-03-06
+48,34,Salvador,BA,2023-03-26
+49,31,Salvador,RJ,2023-08-05
+50,43,Belo Horizonte,PR,2023-06-09
+51,46,São Paulo,RJ,2023-09-22
+52,22,Belo Horizonte,SP,2023-04-26
+53,53,Rio de Janeiro,BA,2023-10-29
+54,18,São Paulo,SP,2023-04-23
+55,22,São Paulo,MG,2023-04-28
+56,50,Rio de Janeiro,MG,2023-02-06
+57,49,Rio de Janeiro,BA,2023-12-09
+58,54,Salvador,PR,2023-03-09
+59,48,Curitiba,RJ,2023-05-05
+60,24,Curitiba,MG,2023-02-18
+61,44,Curitiba,SP,2023-08-05
+62,59,São Paulo,SP,2023-12-11
+63,39,São Paulo,RJ,2023-07-26
+64,30,Salvador,PR,2023-04-09
+65,45,Rio de Janeiro,MG,2023-03-13
+66,33,São Paulo,PR,2023-08-25
+67,24,São Paulo,BA,2023-10-09
+68,23,Rio de Janeiro,RJ,2023-01-08
+69,49,Curitiba,RJ,2023-07-28
+70,21,Rio de Janeiro,PR,2023-07-25
+71,42,Belo Horizonte,PR,2023-01-02
+72,45,Salvador,PR,2023-05-27
+73,30,Belo Horizonte,RJ,2023-03-21
+74,55,Salvador,SP,2023-01-30
+75,21,São Paulo,BA,2023-06-10
+76,50,Salvador,RJ,2023-09-02
+77,50,São Paulo,RJ,2023-01-30
+78,56,São Paulo,RJ,2023-02-05
+79,25,Salvador,RJ,2023-07-26
+80,56,São Paulo,BA,2023-10-24
+81,44,Salvador,BA,2023-02-11
+82,38,Belo Horizonte,RJ,2023-09-25
+83,38,Rio de Janeiro,MG,2023-12-09
+84,26,Belo Horizonte,PR,2023-07-22
+85,22,São Paulo,PR,2023-06-11
+86,54,São Paulo,SP,2023-11-15
+87,31,Salvador,MG,2023-10-03
+88,40,São Paulo,RJ,2023-03-09
+89,36,Rio de Janeiro,PR,2023-07-09
+90,37,Salvador,BA,2023-10-06
+91,60,Salvador,MG,2023-01-05
+92,24,Rio de Janeiro,MG,2023-12-06
+93,24,Salvador,RJ,2023-03-01
+94,36,Salvador,RJ,2023-05-20
+95,31,Belo Horizonte,BA,2023-06-25
+96,34,São Paulo,SP,2023-09-08
+97,45,Belo Horizonte,SP,2023-11-21
+98,39,Rio de Janeiro,MG,2023-01-02
+99,46,Salvador,PR,2023-03-24
+100,18,São Paulo,SP,2023-10-15
+101,27,Salvador,SP,2023-12-20
+102,55,Salvador,RJ,2023-07-09
+103,26,São Paulo,MG,2023-08-09
+104,20,Belo Horizonte,RJ,2023-07-06
+105,33,São Paulo,MG,2023-12-16
+106,44,Salvador,RJ,2023-10-14
+107,28,Rio de Janeiro,PR,2023-05-02
+108,29,Belo Horizonte,PR,2023-01-13
+109,33,Belo Horizonte,RJ,2023-12-09
+110,24,Curitiba,SP,2023-12-26
+111,32,Rio de Janeiro,PR,2023-08-29
+112,37,Rio de Janeiro,RJ,2023-06-29
+113,60,Rio de Janeiro,PR,2023-01-13
+114,35,São Paulo,MG,2023-06-18
+115,59,Salvador,PR,2023-06-29
+116,52,Belo Horizonte,SP,2023-12-14
+117,34,Rio de Janeiro,BA,2023-03-01
+118,20,São Paulo,BA,2023-05-16
+119,40,Belo Horizonte,PR,2023-08-11
+120,50,São Paulo,PR,2023-11-07
+121,30,Belo Horizonte,SP,2023-10-23
+122,45,São Paulo,BA,2023-12-29
+123,60,Rio de Janeiro,MG,2023-10-03
+124,22,Belo Horizonte,BA,2023-08-09
+125,60,São Paulo,MG,2023-06-10
+126,37,Curitiba,MG,2023-09-17
+127,36,Salvador,RJ,2023-07-26
+128,44,Curitiba,RJ,2023-04-09
+129,54,Belo Horizonte,PR,2023-11-12
+130,18,Belo Horizonte,MG,2023-10-08
+131,45,Salvador,BA,2023-04-18
+132,38,Curitiba,PR,2023-12-02
+133,31,Salvador,PR,2023-08-15
+134,60,São Paulo,MG,2023-03-28
+135,60,Salvador,MG,2023-09-21
+136,33,Belo Horizonte,RJ,2023-02-17
+137,27,São Paulo,SP,2023-04-12
+138,48,Salvador,SP,2023-05-06
+139,44,Salvador,RJ,2023-08-22
+140,42,Curitiba,PR,2023-12-23
+141,27,São Paulo,SP,2023-05-05
+142,32,Rio de Janeiro,BA,2023-08-06
+143,21,Salvador,RJ,2023-08-26
+144,47,Rio de Janeiro,PR,2023-03-04
+145,51,Salvador,BA,2023-12-08
+146,46,Salvador,BA,2023-06-12
+147,53,Curitiba,RJ,2023-08-07
+148,46,Belo Horizonte,RJ,2023-09-01
+149,35,Salvador,PR,2023-11-23
+150,33,Belo Horizonte,PR,2023-11-17
+151,36,Rio de Janeiro,MG,2023-02-09
+152,38,Salvador,SP,2023-06-21
+153,27,Rio de Janeiro,PR,2023-03-12
+154,27,Rio de Janeiro,SP,2023-12-22
+155,44,Belo Horizonte,BA,2023-08-01
+156,44,São Paulo,RJ,2023-08-27
+157,42,Salvador,SP,2023-08-04
+158,42,Curitiba,SP,2023-10-22
+159,37,Curitiba,PR,2023-06-30
+160,52,Salvador,RJ,2023-10-03
+161,32,Belo Horizonte,PR,2023-09-07
+162,19,Curitiba,MG,2023-09-06
+163,43,Rio de Janeiro,PR,2023-12-09
+164,57,Salvador,SP,2023-03-07
+165,55,Salvador,SP,2023-07-21
+166,59,Curitiba,RJ,2023-02-12
+167,29,São Paulo,MG,2023-08-25
+168,38,Rio de Janeiro,PR,2023-07-14
+169,39,Curitiba,MG,2023-06-17
+170,34,São Paulo,PR,2023-08-04
+171,52,São Paulo,MG,2023-01-10
+172,59,São Paulo,SP,2023-04-25
+173,33,Rio de Janeiro,SP,2023-01-16
+174,27,Rio de Janeiro,RJ,2023-11-15
+175,60,São Paulo,BA,2023-08-31
+176,47,Belo Horizonte,MG,2023-04-22
+177,56,Salvador,SP,2023-03-27
+178,37,São Paulo,BA,2023-03-25
+179,37,Salvador,PR,2023-01-14
+180,30,São Paulo,BA,2023-07-23
+181,58,Rio de Janeiro,SP,2023-12-20
+182,37,Salvador,SP,2023-12-23
+183,20,Belo Horizonte,BA,2023-10-17
+184,60,Belo Horizonte,SP,2023-08-08
+185,59,Belo Horizonte,SP,2023-09-17
+186,49,São Paulo,PR,2023-08-04
+187,58,Curitiba,RJ,2023-07-05
+188,29,Salvador,MG,2023-08-11
+189,52,Curitiba,PR,2023-11-12
+190,55,Belo Horizonte,MG,2023-08-12
+191,23,Belo Horizonte,PR,2023-05-06
+192,47,Salvador,BA,2023-05-05
+193,42,Belo Horizonte,SP,2023-12-09
+194,38,Rio de Janeiro,PR,2023-09-11
+195,40,Belo Horizonte,MG,2023-04-19
+196,56,Belo Horizonte,BA,2023-05-24
+197,51,Rio de Janeiro,SP,2023-01-06
+198,44,Curitiba,BA,2023-05-04
+199,48,Curitiba,PR,2023-05-04
+200,23,Belo Horizonte,RJ,2023-01-09
+201,33,Belo Horizonte,BA,2023-07-27
+202,48,Salvador,BA,2023-07-08
+203,45,Salvador,MG,2023-06-26
+204,47,Belo Horizonte,MG,2023-06-30
+205,32,São Paulo,RJ,2023-05-09
+206,25,Salvador,RJ,2023-06-11
+207,31,Curitiba,MG,2023-04-09
+208,51,Salvador,MG,2023-10-29
+209,30,Belo Horizonte,RJ,2023-02-21
+210,29,Belo Horizonte,SP,2023-07-04
+211,52,Rio de Janeiro,MG,2023-12-29
+212,21,Salvador,MG,2023-01-24
+213,26,Curitiba,SP,2023-12-24
+214,54,Belo Horizonte,PR,2023-01-07
+215,46,Belo Horizonte,RJ,2023-09-03
+216,34,Curitiba,SP,2023-01-27
+217,43,Curitiba,SP,2023-02-03
+218,58,São Paulo,RJ,2023-10-23
+219,54,Belo Horizonte,SP,2023-03-18
+220,25,Salvador,PR,2023-05-08
+221,56,Salvador,RJ,2023-11-07
+222,42,Curitiba,PR,2023-09-25
+223,55,Curitiba,MG,2023-06-02
+224,57,São Paulo,BA,2023-10-19
+225,31,Rio de Janeiro,MG,2023-02-20
+226,23,Rio de Janeiro,RJ,2023-12-05
+227,53,São Paulo,RJ,2023-03-30
+228,44,Curitiba,BA,2023-01-02
+229,36,São Paulo,RJ,2023-08-29
+230,36,Curitiba,SP,2023-05-28
+231,32,Belo Horizonte,BA,2023-12-18
+232,30,Curitiba,SP,2023-12-05
+233,32,Rio de Janeiro,MG,2023-10-06
+234,22,São Paulo,RJ,2023-03-14
+235,56,Salvador,MG,2023-06-07
+236,25,Curitiba,MG,2023-08-13
+237,43,Belo Horizonte,BA,2023-12-25
+238,49,Curitiba,SP,2023-10-04
+239,20,Curitiba,MG,2023-11-03
+240,34,São Paulo,SP,2023-11-06
+241,54,Salvador,SP,2023-04-28
+242,35,Salvador,SP,2023-12-11
+243,48,Salvador,PR,2023-03-31
+244,29,Salvador,PR,2023-05-23
+245,49,São Paulo,PR,2023-11-22
+246,44,Belo Horizonte,MG,2023-06-28
+247,24,Rio de Janeiro,MG,2023-12-10
+248,49,Belo Horizonte,PR,2023-07-30
+249,20,Curitiba,SP,2023-10-09
+250,34,Belo Horizonte,SP,2023-06-11
+251,50,São Paulo,BA,2023-07-26
+252,44,São Paulo,RJ,2023-08-25
+253,41,Salvador,PR,2023-09-23
+254,46,São Paulo,RJ,2023-11-17
+255,53,Rio de Janeiro,MG,2023-05-17
+256,49,São Paulo,SP,2023-08-13
+257,56,Rio de Janeiro,RJ,2023-11-19
+258,53,São Paulo,BA,2023-06-09
+259,23,Rio de Janeiro,SP,2023-07-28
+260,25,Rio de Janeiro,PR,2023-08-25
+261,50,Belo Horizonte,PR,2023-05-30
+262,48,Rio de Janeiro,PR,2023-09-05
+263,27,Curitiba,RJ,2023-10-10
+264,50,Rio de Janeiro,SP,2023-11-03
+265,44,Belo Horizonte,BA,2023-05-22
+266,18,Belo Horizonte,MG,2023-05-17
+267,55,Curitiba,RJ,2023-10-28
+268,52,Curitiba,MG,2023-08-17
+269,53,Salvador,PR,2023-06-20
+270,38,Rio de Janeiro,RJ,2023-08-22
+271,42,Rio de Janeiro,PR,2023-10-20
+272,38,Curitiba,PR,2023-01-23
+273,60,Rio de Janeiro,PR,2023-07-17
+274,26,Salvador,BA,2023-01-19
+275,24,Curitiba,SP,2023-06-19
+276,47,São Paulo,RJ,2023-09-27
+277,59,Rio de Janeiro,SP,2023-07-29
+278,34,Belo Horizonte,BA,2023-08-29
+279,43,São Paulo,MG,2023-12-21
+280,52,Curitiba,MG,2023-12-12
+281,49,Salvador,SP,2023-11-17
+282,22,Rio de Janeiro,MG,2023-11-13
+283,23,Curitiba,SP,2023-04-27
+284,24,Curitiba,RJ,2023-11-21
+285,37,São Paulo,SP,2023-12-22
+286,21,Belo Horizonte,MG,2023-06-16
+287,45,Rio de Janeiro,RJ,2023-07-11
+288,44,Salvador,RJ,2023-09-29
+289,29,São Paulo,BA,2023-03-29
+290,57,Rio de Janeiro,PR,2023-07-15
+291,27,Rio de Janeiro,PR,2023-10-26
+292,34,Curitiba,MG,2023-11-23
+293,18,Curitiba,MG,2023-12-08
+294,52,Rio de Janeiro,SP,2023-12-13
+295,40,Salvador,MG,2023-08-15
+296,45,Belo Horizonte,PR,2023-11-24
+297,30,Curitiba,PR,2023-06-04
+298,33,Curitiba,BA,2023-02-24
+299,54,Belo Horizonte,MG,2023-07-03
+300,60,Curitiba,MG,2023-01-12
+301,54,São Paulo,BA,2023-01-05
+302,36,Rio de Janeiro,BA,2023-09-12
+303,32,Rio de Janeiro,BA,2023-06-30
+304,60,Rio de Janeiro,SP,2023-05-09
+305,59,São Paulo,MG,2023-11-18
+306,20,Salvador,MG,2023-08-14
+307,23,Belo Horizonte,MG,2023-03-09
+308,29,Rio de Janeiro,RJ,2023-08-01
+309,41,Salvador,BA,2023-10-04
+310,28,Belo Horizonte,PR,2023-05-20
+311,39,São Paulo,PR,2023-06-01
+312,27,Rio de Janeiro,PR,2023-02-08
+313,41,São Paulo,PR,2023-10-13
+314,34,Salvador,SP,2023-01-08
+315,41,Belo Horizonte,BA,2023-08-21
+316,58,Belo Horizonte,SP,2023-07-15
+317,32,Curitiba,SP,2023-12-12
+318,53,Belo Horizonte,BA,2023-11-14
+319,59,São Paulo,PR,2023-04-24
+320,37,Curitiba,SP,2023-12-25
+321,20,São Paulo,MG,2023-03-13
+322,25,São Paulo,RJ,2023-09-10
+323,26,Curitiba,PR,2023-10-03
+324,60,Salvador,PR,2023-07-09
+325,27,Curitiba,SP,2023-10-28
+326,57,Curitiba,MG,2023-09-08
+327,41,Rio de Janeiro,PR,2023-01-17
+328,33,Belo Horizonte,SP,2023-08-16
+329,41,Salvador,MG,2023-12-18
+330,43,Belo Horizonte,RJ,2023-02-01
+331,47,São Paulo,RJ,2023-03-04
+332,58,Salvador,SP,2023-11-25
+333,39,Rio de Janeiro,RJ,2023-01-26
+334,31,São Paulo,BA,2023-10-17
+335,55,Rio de Janeiro,RJ,2023-04-17
+336,27,Salvador,SP,2023-06-18
+337,27,Rio de Janeiro,BA,2023-05-22
+338,29,São Paulo,SP,2023-05-09
+339,18,Belo Horizonte,RJ,2023-03-09
+340,38,São Paulo,RJ,2023-10-29
+341,21,Rio de Janeiro,PR,2023-05-16
+342,25,São Paulo,PR,2023-09-27
+343,41,Salvador,BA,2023-08-18
+344,46,Salvador,RJ,2023-02-25
+345,20,Salvador,MG,2023-11-11
+346,59,São Paulo,SP,2023-08-23
+347,43,Curitiba,SP,2023-09-03
+348,46,São Paulo,SP,2023-09-09
+349,56,Rio de Janeiro,SP,2023-06-14
+350,35,Salvador,BA,2023-03-06
+351,38,Curitiba,BA,2023-10-08
+352,36,Curitiba,BA,2023-09-29
+353,45,São Paulo,SP,2023-11-06
+354,59,Salvador,RJ,2023-12-02
+355,46,Rio de Janeiro,PR,2023-08-09
+356,47,Curitiba,PR,2023-06-23
+357,38,Curitiba,MG,2023-02-18
+358,34,Belo Horizonte,RJ,2023-12-07
+359,48,São Paulo,SP,2023-12-18
+360,23,Curitiba,SP,2023-02-13
+361,26,Salvador,SP,2023-07-10
+362,53,Salvador,MG,2023-10-28
+363,25,Curitiba,MG,2023-12-10
+364,45,São Paulo,MG,2023-12-07
+365,37,Belo Horizonte,SP,2023-11-04
+366,50,Rio de Janeiro,RJ,2023-10-23
+367,48,Rio de Janeiro,SP,2023-12-03
+368,53,Belo Horizonte,SP,2023-06-29
+369,54,Rio de Janeiro,PR,2023-05-23
+370,57,Salvador,BA,2023-10-15
+371,56,Belo Horizonte,SP,2023-01-14
+372,35,Belo Horizonte,MG,2023-04-03
+373,18,Rio de Janeiro,RJ,2023-06-29
+374,60,Curitiba,SP,2023-10-17
+375,58,São Paulo,SP,2023-03-14
+376,31,Curitiba,PR,2023-09-29
+377,39,Rio de Janeiro,MG,2023-08-21
+378,38,Salvador,BA,2023-06-09
+379,21,Rio de Janeiro,RJ,2023-02-13
+380,21,São Paulo,MG,2023-11-13
+381,60,Curitiba,PR,2023-08-15
+382,46,Curitiba,MG,2023-11-07
+383,50,São Paulo,MG,2023-04-21
+384,25,Belo Horizonte,BA,2023-08-09
+385,51,Belo Horizonte,SP,2023-09-07
+386,43,Salvador,SP,2023-04-23
+387,31,Belo Horizonte,RJ,2023-01-04
+388,34,Belo Horizonte,MG,2023-03-12
+389,18,Curitiba,PR,2023-03-03
+390,26,Curitiba,BA,2023-03-31
+391,32,Salvador,BA,2023-12-27
+392,40,São Paulo,PR,2023-12-09
+393,45,São Paulo,PR,2023-01-22
+394,38,Salvador,PR,2023-02-09
+395,43,Curitiba,MG,2023-10-21
+396,43,São Paulo,MG,2023-02-28
+397,57,Curitiba,MG,2023-03-29
+398,45,São Paulo,RJ,2023-02-15
+399,55,Curitiba,BA,2023-08-12
+400,43,Belo Horizonte,MG,2023-02-10
+401,39,Rio de Janeiro,SP,2023-04-24
+402,58,São Paulo,BA,2023-09-19
+403,30,Belo Horizonte,MG,2023-09-19
+404,27,Rio de Janeiro,SP,2023-11-27
+405,34,Rio de Janeiro,RJ,2023-03-16
+406,27,São Paulo,RJ,2023-11-05
+407,49,Curitiba,BA,2023-11-18
+408,46,Salvador,BA,2023-10-24
+409,58,Belo Horizonte,RJ,2023-06-15
+410,22,Curitiba,PR,2023-08-14
+411,37,Belo Horizonte,BA,2023-11-20
+412,40,Salvador,SP,2023-01-29
+413,47,Curitiba,SP,2023-06-08
+414,41,Belo Horizonte,SP,2023-01-30
+415,23,Salvador,BA,2023-11-27
+416,42,Curitiba,BA,2023-09-17
+417,20,Curitiba,BA,2023-10-11
+418,30,Belo Horizonte,BA,2023-11-30
+419,50,Rio de Janeiro,SP,2023-09-01
+420,24,Belo Horizonte,SP,2023-08-19
+421,59,Rio de Janeiro,SP,2023-09-16
+422,46,Curitiba,BA,2023-05-07
+423,57,Rio de Janeiro,MG,2023-09-25
+424,36,Curitiba,PR,2023-07-10
+425,56,São Paulo,MG,2023-06-23
+426,39,São Paulo,BA,2023-02-03
+427,42,Belo Horizonte,MG,2023-12-14
+428,56,Rio de Janeiro,MG,2023-12-03
+429,55,Rio de Janeiro,MG,2023-02-11
+430,59,Curitiba,RJ,2023-06-08
+431,23,Belo Horizonte,BA,2023-11-01
+432,59,Belo Horizonte,RJ,2023-07-12
+433,51,São Paulo,PR,2023-12-10
+434,41,São Paulo,MG,2023-09-18
+435,29,Rio de Janeiro,MG,2023-06-08
+436,30,Rio de Janeiro,RJ,2023-09-06
+437,22,Belo Horizonte,SP,2023-03-21
+438,52,Salvador,SP,2023-09-17
+439,39,Salvador,RJ,2023-12-05
+440,42,Rio de Janeiro,RJ,2023-11-02
+441,57,Rio de Janeiro,PR,2023-04-03
+442,44,Belo Horizonte,RJ,2023-01-23
+443,57,Belo Horizonte,PR,2023-08-16
+444,52,Rio de Janeiro,MG,2023-04-30
+445,30,Belo Horizonte,BA,2023-08-29
+446,47,Belo Horizonte,PR,2023-08-14
+447,51,Curitiba,RJ,2023-09-15
+448,56,Rio de Janeiro,MG,2023-04-13
+449,59,Curitiba,MG,2023-01-27
+450,24,Salvador,SP,2023-10-11
+451,23,Rio de Janeiro,MG,2023-05-26
+452,50,Rio de Janeiro,PR,2023-08-19
+453,32,Curitiba,MG,2023-02-16
+454,44,São Paulo,PR,2023-01-14
+455,41,Rio de Janeiro,PR,2023-09-15
+456,41,Rio de Janeiro,SP,2023-02-11
+457,24,Belo Horizonte,RJ,2023-06-13
+458,20,Belo Horizonte,PR,2023-03-12
+459,26,Curitiba,PR,2023-12-23
+460,18,São Paulo,SP,2023-11-12
+461,31,Rio de Janeiro,BA,2023-05-12
+462,51,Curitiba,SP,2023-11-08
+463,33,Belo Horizonte,SP,2023-05-28
+464,33,Curitiba,BA,2023-01-25
+465,22,São Paulo,PR,2023-08-23
+466,52,São Paulo,BA,2023-11-02
+467,33,Rio de Janeiro,MG,2023-10-22
+468,18,Salvador,MG,2023-08-08
+469,54,Curitiba,RJ,2023-05-04
+470,60,São Paulo,BA,2023-12-07
+471,22,Salvador,BA,2023-07-04
+472,50,Salvador,SP,2023-09-17
+473,48,São Paulo,PR,2023-07-19
+474,34,São Paulo,MG,2023-07-11
+475,40,Rio de Janeiro,SP,2023-02-04
+476,39,Rio de Janeiro,SP,2023-10-25
+477,52,Belo Horizonte,RJ,2023-06-30
+478,47,Curitiba,RJ,2023-12-17
+479,22,Curitiba,SP,2023-03-11
+480,30,São Paulo,RJ,2023-05-31
+481,38,Belo Horizonte,BA,2023-01-22
+482,52,Curitiba,MG,2023-07-23
+483,59,Rio de Janeiro,MG,2023-01-19
+484,21,Belo Horizonte,MG,2023-07-02
+485,41,Curitiba,PR,2023-03-05
+486,42,Belo Horizonte,RJ,2023-08-14
+487,49,Belo Horizonte,BA,2023-09-12
+488,23,Curitiba,SP,2023-05-17
+489,56,Rio de Janeiro,BA,2023-08-09
+490,38,São Paulo,SP,2023-05-31
+491,60,Belo Horizonte,MG,2023-06-17
+492,56,Curitiba,RJ,2023-08-17
+493,46,Belo Horizonte,PR,2023-12-20
+494,40,Salvador,PR,2023-01-22
+495,58,São Paulo,SP,2023-05-21
+496,58,Curitiba,MG,2023-12-10
+497,28,São Paulo,RJ,2023-09-20
+498,46,São Paulo,RJ,2023-11-08
+499,33,Belo Horizonte,MG,2023-02-04
+500,54,São Paulo,BA,2023-07-16
+501,46,Belo Horizonte,MG,2023-03-20
+502,22,Salvador,RJ,2023-08-16
+503,41,Curitiba,MG,2023-09-29
+504,35,Rio de Janeiro,SP,2023-11-29
+505,29,Curitiba,BA,2023-01-14
+506,53,São Paulo,MG,2023-07-18
+507,46,Rio de Janeiro,BA,2023-05-14
+508,49,Rio de Janeiro,SP,2023-05-27
+509,22,Curitiba,RJ,2023-03-11
+510,23,Belo Horizonte,MG,2023-08-16
+511,22,Salvador,BA,2023-12-30
+512,37,Rio de Janeiro,RJ,2023-05-29
+513,50,Rio de Janeiro,SP,2023-07-05
+514,26,Rio de Janeiro,PR,2023-04-13
+515,41,Salvador,BA,2023-01-14
+516,47,Salvador,RJ,2023-07-08
+517,23,São Paulo,MG,2023-11-10
+518,48,Salvador,PR,2023-07-23
+519,54,São Paulo,RJ,2023-07-29
+520,59,São Paulo,PR,2023-06-12
+521,51,Belo Horizonte,RJ,2023-08-27
+522,58,Salvador,RJ,2023-10-10
+523,45,Salvador,SP,2023-03-08
+524,51,Rio de Janeiro,MG,2023-03-05
+525,28,Belo Horizonte,RJ,2023-03-26
+526,51,Belo Horizonte,SP,2023-06-27
+527,30,Salvador,MG,2023-05-09
+528,58,Belo Horizonte,BA,2023-03-06
+529,23,Salvador,RJ,2023-10-01
+530,55,Rio de Janeiro,RJ,2023-10-31
+531,57,Salvador,MG,2023-12-04
+532,20,São Paulo,SP,2023-10-16
+533,59,Salvador,MG,2023-01-24
+534,31,Salvador,PR,2023-11-30
+535,58,São Paulo,PR,2023-11-13
+536,52,Belo Horizonte,MG,2023-11-18
+537,33,Curitiba,MG,2023-09-05
+538,22,São Paulo,RJ,2023-08-21
+539,44,Curitiba,PR,2023-08-14
+540,39,Salvador,RJ,2023-04-15
+541,38,Belo Horizonte,PR,2023-06-10
+542,41,Salvador,BA,2023-03-08
+543,38,Rio de Janeiro,PR,2023-02-24
+544,35,Curitiba,RJ,2023-03-04
+545,24,São Paulo,MG,2023-03-14
+546,57,Curitiba,RJ,2023-07-16
+547,38,Salvador,MG,2023-03-23
+548,28,Curitiba,BA,2023-04-08
+549,49,Belo Horizonte,PR,2023-08-28
+550,23,Curitiba,BA,2023-01-12
+551,33,Rio de Janeiro,BA,2023-08-23
+552,21,São Paulo,MG,2023-06-30
+553,56,Curitiba,MG,2023-09-11
+554,18,São Paulo,PR,2023-10-02
+555,34,Belo Horizonte,PR,2023-03-10
+556,20,Curitiba,SP,2023-07-07
+557,53,Rio de Janeiro,MG,2023-10-19
+558,36,São Paulo,PR,2023-10-11
+559,46,Salvador,MG,2023-09-16
+560,57,São Paulo,RJ,2023-11-16
+561,43,Belo Horizonte,MG,2023-02-19
+562,41,Rio de Janeiro,RJ,2023-10-13
+563,50,Curitiba,BA,2023-11-05
+564,20,São Paulo,RJ,2023-01-21
+565,48,Salvador,PR,2023-06-20
+566,56,Salvador,RJ,2023-03-18
+567,57,Belo Horizonte,RJ,2023-06-17
+568,57,Belo Horizonte,BA,2023-07-21
+569,50,Salvador,BA,2023-06-22
+570,54,Belo Horizonte,PR,2023-09-08
+571,41,Belo Horizonte,SP,2023-01-09
+572,55,Belo Horizonte,SP,2023-08-02
+573,48,Belo Horizonte,BA,2023-11-02
+574,32,São Paulo,BA,2023-10-23
+575,28,Salvador,BA,2023-09-03
+576,27,Rio de Janeiro,SP,2023-07-14
+577,25,Rio de Janeiro,SP,2023-10-21
+578,38,Curitiba,RJ,2023-08-14
+579,31,Curitiba,BA,2023-07-31
+580,48,São Paulo,RJ,2023-11-10
+581,31,Salvador,MG,2023-09-23
+582,48,Salvador,PR,2023-12-06
+583,29,Curitiba,BA,2023-06-10
+584,52,Belo Horizonte,MG,2023-06-25
+585,48,Rio de Janeiro,RJ,2023-11-09
+586,53,Belo Horizonte,RJ,2023-05-23
+587,36,Rio de Janeiro,PR,2023-06-02
+588,48,Belo Horizonte,BA,2023-06-12
+589,36,São Paulo,BA,2023-05-21
+590,52,Curitiba,PR,2023-12-13
+591,27,Belo Horizonte,SP,2023-06-26
+592,23,Belo Horizonte,PR,2023-05-28
+593,34,Curitiba,RJ,2023-12-02
+594,52,Belo Horizonte,BA,2023-04-14
+595,35,Rio de Janeiro,SP,2023-12-23
+596,55,Rio de Janeiro,RJ,2023-11-12
+597,60,Salvador,RJ,2023-01-26
+598,32,São Paulo,SP,2023-11-23
+599,39,Curitiba,SP,2023-07-31
+600,26,São Paulo,BA,2023-12-15
+601,44,Curitiba,PR,2023-03-22
+602,30,Belo Horizonte,MG,2023-11-30
+603,59,São Paulo,SP,2023-05-27
+604,54,Rio de Janeiro,BA,2023-11-30
+605,29,Curitiba,RJ,2023-01-20
+606,43,Curitiba,RJ,2023-01-19
+607,20,São Paulo,MG,2023-05-29
+608,56,São Paulo,MG,2023-10-18
+609,47,Salvador,BA,2023-05-26
+610,26,Salvador,PR,2023-09-10
+611,30,São Paulo,MG,2023-05-20
+612,47,Belo Horizonte,RJ,2023-03-25
+613,39,Belo Horizonte,BA,2023-01-08
+614,30,Rio de Janeiro,BA,2023-12-12
+615,43,Curitiba,BA,2023-11-24
+616,23,Curitiba,SP,2023-06-17
+617,26,Curitiba,MG,2023-04-05
+618,18,Belo Horizonte,PR,2023-05-08
+619,46,Belo Horizonte,MG,2023-05-01
+620,55,Salvador,SP,2023-06-04
+621,59,Belo Horizonte,RJ,2023-05-14
+622,60,São Paulo,PR,2023-02-01
+623,28,Curitiba,BA,2023-06-07
+624,37,São Paulo,MG,2023-12-27
+625,57,Rio de Janeiro,RJ,2023-07-08
+626,48,Rio de Janeiro,PR,2023-03-10
+627,41,Curitiba,BA,2023-11-07
+628,52,Rio de Janeiro,RJ,2023-08-30
+629,56,São Paulo,BA,2023-12-15
+630,51,Belo Horizonte,SP,2023-08-17
+631,25,São Paulo,BA,2023-10-16
+632,30,Salvador,BA,2023-09-16
+633,28,Belo Horizonte,BA,2023-03-18
+634,25,Rio de Janeiro,BA,2023-08-15
+635,23,Salvador,PR,2023-09-08
+636,47,Rio de Janeiro,BA,2023-01-29
+637,47,Salvador,SP,2023-08-01
+638,47,Belo Horizonte,SP,2023-10-14
+639,34,São Paulo,RJ,2023-07-22
+640,22,São Paulo,PR,2023-10-24
+641,22,Salvador,SP,2023-06-26
+642,48,São Paulo,MG,2023-02-05
+643,29,Rio de Janeiro,PR,2023-07-29
+644,42,Curitiba,PR,2023-07-11
+645,23,Salvador,RJ,2023-07-12
+646,40,São Paulo,RJ,2023-12-01
+647,43,Salvador,RJ,2023-10-03
+648,18,São Paulo,MG,2023-04-25
+649,52,Curitiba,BA,2023-08-26
+650,32,Rio de Janeiro,PR,2023-07-14
+651,27,Belo Horizonte,RJ,2023-06-27
+652,20,Curitiba,BA,2023-02-27
+653,33,Rio de Janeiro,SP,2023-01-09
+654,56,São Paulo,PR,2023-02-21
+655,21,Rio de Janeiro,SP,2023-11-03
+656,46,Rio de Janeiro,BA,2023-07-25
+657,21,Rio de Janeiro,BA,2023-04-22
+658,32,Salvador,MG,2023-05-29
+659,56,Belo Horizonte,RJ,2023-10-23
+660,27,Salvador,RJ,2023-06-04
+661,37,Belo Horizonte,SP,2023-07-31
+662,55,Rio de Janeiro,PR,2023-10-13
+663,49,São Paulo,MG,2023-10-12
+664,60,Curitiba,BA,2023-11-26
+665,44,Curitiba,RJ,2023-06-13
+666,42,Rio de Janeiro,BA,2023-06-03
+667,33,Rio de Janeiro,MG,2023-08-31
+668,27,Curitiba,SP,2023-12-29
+669,44,Curitiba,BA,2023-10-15
+670,26,Curitiba,RJ,2023-09-29
+671,31,Belo Horizonte,SP,2023-05-11
+672,41,São Paulo,BA,2023-08-19
+673,21,Belo Horizonte,PR,2023-04-08
+674,56,Salvador,SP,2023-12-11
+675,30,Salvador,BA,2023-02-07
+676,48,Rio de Janeiro,MG,2023-04-22
+677,18,Rio de Janeiro,RJ,2023-06-05
+678,48,Rio de Janeiro,BA,2023-03-02
+679,31,Curitiba,RJ,2023-12-27
+680,38,Belo Horizonte,PR,2023-10-10
+681,52,Belo Horizonte,MG,2023-08-27
+682,41,Salvador,PR,2023-05-14
+683,24,Curitiba,MG,2023-08-27
+684,41,Belo Horizonte,PR,2023-04-15
+685,54,Rio de Janeiro,RJ,2023-01-24
+686,34,Salvador,BA,2023-01-09
+687,44,Belo Horizonte,RJ,2023-10-24
+688,39,Rio de Janeiro,PR,2023-04-11
+689,33,Curitiba,BA,2023-10-19
+690,39,Belo Horizonte,PR,2023-12-02
+691,49,Curitiba,RJ,2023-11-25
+692,28,Rio de Janeiro,BA,2023-06-30
+693,29,Salvador,SP,2023-09-08
+694,20,São Paulo,SP,2023-09-26
+695,44,Rio de Janeiro,RJ,2023-01-04
+696,27,São Paulo,RJ,2023-02-04
+697,47,Belo Horizonte,SP,2023-09-16
+698,58,Salvador,PR,2023-11-13
+699,49,São Paulo,SP,2023-12-04
+700,53,Curitiba,SP,2023-09-30
+701,51,Belo Horizonte,BA,2023-01-09
+702,19,Salvador,PR,2023-05-27
+703,24,São Paulo,BA,2023-04-02
+704,33,Rio de Janeiro,BA,2023-03-18
+705,34,Belo Horizonte,MG,2023-09-27
+706,23,Belo Horizonte,PR,2023-07-23
+707,54,Rio de Janeiro,RJ,2023-08-24
+708,23,São Paulo,SP,2023-06-03
+709,42,Curitiba,BA,2023-07-27
+710,21,São Paulo,RJ,2023-09-01
+711,49,Curitiba,MG,2023-02-12
+712,24,Salvador,SP,2023-10-17
+713,31,Salvador,PR,2023-04-28
+714,20,São Paulo,MG,2023-05-19
+715,54,São Paulo,RJ,2023-10-06
+716,19,Rio de Janeiro,BA,2023-06-11
+717,43,São Paulo,MG,2023-03-15
+718,54,Rio de Janeiro,BA,2023-03-25
+719,52,Belo Horizonte,PR,2023-07-19
+720,23,Salvador,MG,2023-03-13
+721,24,Curitiba,RJ,2023-01-28
+722,39,Salvador,BA,2023-02-08
+723,43,Belo Horizonte,SP,2023-11-01
+724,35,Curitiba,PR,2023-11-21
+725,40,Salvador,PR,2023-04-27
+726,29,Salvador,PR,2023-08-10
+727,57,Belo Horizonte,RJ,2023-02-13
+728,23,Belo Horizonte,RJ,2023-02-07
+729,58,Rio de Janeiro,PR,2023-07-14
+730,41,São Paulo,SP,2023-06-12
+731,37,Curitiba,MG,2023-01-03
+732,24,Rio de Janeiro,SP,2023-05-19
+733,45,Curitiba,BA,2023-04-06
+734,50,Curitiba,SP,2023-10-12
+735,23,Belo Horizonte,BA,2023-01-14
+736,56,Salvador,MG,2023-02-17
+737,18,Belo Horizonte,PR,2023-07-17
+738,23,Salvador,RJ,2023-07-18
+739,51,Rio de Janeiro,PR,2023-10-20
+740,26,Belo Horizonte,MG,2023-03-28
+741,49,Rio de Janeiro,SP,2023-05-18
+742,45,Belo Horizonte,PR,2023-03-27
+743,48,São Paulo,MG,2023-06-03
+744,33,Curitiba,BA,2023-05-09
+745,30,Curitiba,SP,2023-11-12
+746,37,São Paulo,PR,2023-03-11
+747,57,Curitiba,MG,2023-06-20
+748,39,Curitiba,BA,2023-08-14
+749,37,Belo Horizonte,BA,2023-03-11
+750,30,Curitiba,MG,2023-12-22
+751,43,Belo Horizonte,MG,2023-04-01
+752,58,Curitiba,BA,2023-12-22
+753,38,Curitiba,MG,2023-05-05
+754,41,São Paulo,BA,2023-07-21
+755,55,Salvador,RJ,2023-04-13
+756,53,São Paulo,PR,2023-12-16
+757,31,Curitiba,MG,2023-12-29
+758,22,Curitiba,PR,2023-12-21
+759,58,Belo Horizonte,RJ,2023-03-13
+760,60,Rio de Janeiro,PR,2023-05-10
+761,22,Curitiba,BA,2023-07-13
+762,55,Curitiba,BA,2023-09-03
+763,44,Salvador,SP,2023-09-17
+764,52,Salvador,SP,2023-07-04
+765,33,Belo Horizonte,RJ,2023-02-25
+766,57,São Paulo,BA,2023-11-28
+767,59,Curitiba,MG,2023-11-27
+768,24,São Paulo,SP,2023-08-09
+769,32,Salvador,BA,2023-05-13
+770,55,Salvador,RJ,2023-10-13
+771,41,Curitiba,PR,2023-08-17
+772,55,Salvador,RJ,2023-12-14
+773,19,Curitiba,SP,2023-06-26
+774,44,São Paulo,SP,2023-06-01
+775,40,Belo Horizonte,MG,2023-03-14
+776,31,Salvador,PR,2023-08-22
+777,48,São Paulo,PR,2023-06-28
+778,46,Belo Horizonte,SP,2023-12-23
+779,20,São Paulo,SP,2023-06-03
+780,59,São Paulo,RJ,2023-06-25
+781,51,Rio de Janeiro,BA,2023-05-05
+782,39,Salvador,PR,2023-03-23
+783,32,Curitiba,RJ,2023-08-25
+784,58,Curitiba,PR,2023-04-06
+785,57,Rio de Janeiro,PR,2023-01-15
+786,45,Curitiba,SP,2023-10-31
+787,31,Rio de Janeiro,MG,2023-12-27
+788,22,Salvador,SP,2023-12-27
+789,29,Belo Horizonte,MG,2023-10-02
+790,47,São Paulo,MG,2023-04-11
+791,49,Salvador,MG,2023-12-10
+792,42,Salvador,PR,2023-11-02
+793,25,Belo Horizonte,MG,2023-10-28
+794,57,Rio de Janeiro,MG,2023-08-23
+795,55,São Paulo,RJ,2023-11-11
+796,25,Rio de Janeiro,MG,2023-06-10
+797,29,Belo Horizonte,RJ,2023-03-01
+798,42,Curitiba,BA,2023-09-19
+799,54,Curitiba,PR,2023-03-12
+800,49,Salvador,RJ,2023-04-06
+801,28,Curitiba,MG,2023-10-12
+802,29,Belo Horizonte,PR,2023-03-13
+803,21,Belo Horizonte,SP,2023-11-14
+804,26,Rio de Janeiro,PR,2023-09-06
+805,50,Curitiba,PR,2023-10-15
+806,49,Curitiba,PR,2023-12-17
+807,28,São Paulo,BA,2023-09-08
+808,32,Belo Horizonte,SP,2023-01-16
+809,32,Salvador,MG,2023-05-21
+810,47,Salvador,PR,2023-03-28
+811,50,São Paulo,BA,2023-10-09
+812,35,Salvador,MG,2023-02-28
+813,20,Curitiba,BA,2023-10-05
+814,45,São Paulo,RJ,2023-04-22
+815,20,Curitiba,MG,2023-06-02
+816,23,Curitiba,SP,2023-06-28
+817,31,Salvador,MG,2023-05-02
+818,57,Curitiba,RJ,2023-12-30
+819,26,Rio de Janeiro,RJ,2023-11-12
+820,54,Belo Horizonte,BA,2023-01-31
+821,56,Salvador,RJ,2023-05-24
+822,36,Belo Horizonte,BA,2023-06-15
+823,50,São Paulo,RJ,2023-05-17
+824,21,Belo Horizonte,RJ,2023-07-30
+825,26,Rio de Janeiro,RJ,2023-12-26
+826,38,Rio de Janeiro,PR,2023-12-31
+827,27,Salvador,MG,2023-09-08
+828,44,Curitiba,PR,2023-11-18
+829,58,São Paulo,PR,2023-02-08
+830,35,Belo Horizonte,PR,2023-09-21
+831,38,Salvador,SP,2023-09-07
+832,47,Belo Horizonte,SP,2023-02-17
+833,43,Rio de Janeiro,PR,2023-10-01
+834,49,Belo Horizonte,MG,2023-04-19
+835,39,Salvador,BA,2023-05-26
+836,54,Curitiba,MG,2023-03-08
+837,21,São Paulo,SP,2023-12-16
+838,47,São Paulo,SP,2023-11-17
+839,46,Curitiba,SP,2023-03-22
+840,30,Rio de Janeiro,MG,2023-08-08
+841,35,São Paulo,MG,2023-03-23
+842,23,Belo Horizonte,RJ,2023-05-09
+843,43,Belo Horizonte,RJ,2023-01-27
+844,59,São Paulo,SP,2023-08-08
+845,31,Curitiba,SP,2023-01-01
+846,55,Rio de Janeiro,BA,2023-03-09
+847,46,São Paulo,SP,2023-12-15
+848,39,São Paulo,PR,2023-12-23
+849,26,Curitiba,SP,2023-12-22
+850,42,São Paulo,SP,2023-04-28
+851,38,Belo Horizonte,MG,2023-02-22
+852,42,Rio de Janeiro,RJ,2023-03-12
+853,51,Salvador,SP,2023-02-05
+854,59,Rio de Janeiro,PR,2023-11-09
+855,31,Rio de Janeiro,PR,2023-06-29
+856,46,Rio de Janeiro,SP,2023-11-12
+857,26,São Paulo,BA,2023-02-21
+858,40,Curitiba,MG,2023-07-16
+859,33,Belo Horizonte,SP,2023-03-13
+860,53,Salvador,BA,2023-05-08
+861,36,São Paulo,MG,2023-11-08
+862,51,Salvador,BA,2023-04-16
+863,43,Belo Horizonte,SP,2023-04-07
+864,49,Curitiba,SP,2023-05-03
+865,49,Salvador,SP,2023-05-04
+866,18,Belo Horizonte,MG,2023-09-28
+867,42,Salvador,PR,2023-03-09
+868,52,Rio de Janeiro,PR,2023-07-07
+869,19,Salvador,SP,2023-02-07
+870,34,Rio de Janeiro,SP,2023-01-08
+871,43,Salvador,MG,2023-01-31
+872,50,Curitiba,PR,2023-11-18
+873,43,São Paulo,BA,2023-12-26
+874,57,Rio de Janeiro,MG,2023-10-03
+875,37,São Paulo,BA,2023-02-12
+876,27,Salvador,MG,2023-04-15
+877,55,São Paulo,MG,2023-07-20
+878,45,Rio de Janeiro,SP,2023-12-24
+879,23,Curitiba,SP,2023-05-06
+880,57,Salvador,SP,2023-08-21
+881,60,Rio de Janeiro,SP,2023-06-08
+882,26,São Paulo,RJ,2023-01-07
+883,40,Salvador,BA,2023-09-12
+884,28,Belo Horizonte,RJ,2023-05-13
+885,25,São Paulo,MG,2023-05-18
+886,35,Salvador,SP,2023-08-08
+887,54,São Paulo,PR,2023-05-15
+888,50,Belo Horizonte,SP,2023-08-22
+889,54,Rio de Janeiro,MG,2023-09-13
+890,34,São Paulo,BA,2023-03-22
+891,25,Rio de Janeiro,BA,2023-12-12
+892,20,São Paulo,RJ,2023-01-02
+893,48,Belo Horizonte,PR,2023-01-24
+894,29,São Paulo,BA,2023-03-18
+895,44,Rio de Janeiro,MG,2023-12-02
+896,44,Belo Horizonte,MG,2023-05-08
+897,54,Belo Horizonte,SP,2023-02-09
+898,21,Rio de Janeiro,RJ,2023-09-15
+899,20,Curitiba,SP,2023-09-22
+900,36,Belo Horizonte,MG,2023-08-27
+901,53,Curitiba,SP,2023-02-14
+902,30,Belo Horizonte,BA,2023-07-08
+903,57,Rio de Janeiro,PR,2023-06-05
+904,55,Curitiba,RJ,2023-07-08
+905,33,Rio de Janeiro,SP,2023-10-07
+906,19,Rio de Janeiro,BA,2023-07-29
+907,58,São Paulo,MG,2023-06-27
+908,60,Curitiba,MG,2023-01-01
+909,31,Salvador,RJ,2023-02-23
+910,49,São Paulo,RJ,2023-08-03
+911,35,São Paulo,SP,2023-12-31
+912,51,Curitiba,MG,2023-04-29
+913,23,Salvador,SP,2023-08-23
+914,26,Curitiba,SP,2023-09-16
+915,54,São Paulo,PR,2023-10-31
+916,26,Rio de Janeiro,MG,2023-12-06
+917,38,Curitiba,MG,2023-05-14
+918,46,Belo Horizonte,RJ,2023-06-12
+919,30,Rio de Janeiro,BA,2023-02-08
+920,27,São Paulo,RJ,2023-02-25
+921,47,Belo Horizonte,PR,2023-08-19
+922,52,Belo Horizonte,RJ,2023-03-03
+923,37,Curitiba,MG,2023-08-20
+924,23,Rio de Janeiro,MG,2023-03-03
+925,56,São Paulo,RJ,2023-12-27
+926,27,São Paulo,RJ,2023-06-17
+927,43,Salvador,SP,2023-07-02
+928,37,Belo Horizonte,RJ,2023-12-13
+929,43,Curitiba,BA,2023-01-16
+930,33,São Paulo,PR,2023-10-09
+931,26,São Paulo,SP,2023-02-22
+932,32,Rio de Janeiro,RJ,2023-02-01
+933,41,São Paulo,BA,2023-07-25
+934,34,São Paulo,SP,2023-10-28
+935,30,Curitiba,RJ,2023-02-03
+936,39,São Paulo,SP,2023-02-17
+937,21,Rio de Janeiro,BA,2023-08-25
+938,43,Curitiba,SP,2023-08-10
+939,45,Rio de Janeiro,MG,2023-07-15
+940,29,Belo Horizonte,MG,2023-04-20
+941,27,São Paulo,BA,2023-08-17
+942,57,Rio de Janeiro,MG,2023-11-14
+943,44,Salvador,PR,2023-09-13
+944,23,Belo Horizonte,PR,2023-02-01
+945,44,Rio de Janeiro,BA,2023-03-12
+946,58,Salvador,SP,2023-05-08
+947,40,Curitiba,BA,2023-07-15
+948,40,Salvador,BA,2023-09-06
+949,42,Belo Horizonte,RJ,2023-06-14
+950,38,Salvador,RJ,2023-01-14
+951,35,São Paulo,PR,2023-01-16
+952,40,Salvador,RJ,2023-09-29
+953,24,Rio de Janeiro,RJ,2023-03-23
+954,52,São Paulo,RJ,2023-05-17
+955,42,Belo Horizonte,RJ,2023-10-22
+956,33,Salvador,MG,2023-04-01
+957,40,Salvador,SP,2023-12-24
+958,40,Salvador,BA,2023-12-27
+959,54,Rio de Janeiro,PR,2023-03-14
+960,37,Rio de Janeiro,PR,2023-10-05
+961,23,São Paulo,RJ,2023-01-20
+962,32,São Paulo,BA,2023-11-05
+963,18,Belo Horizonte,BA,2023-09-02
+964,26,Belo Horizonte,RJ,2023-04-14
+965,21,São Paulo,RJ,2023-06-15
+966,27,São Paulo,BA,2023-10-28
+967,22,Belo Horizonte,PR,2023-07-06
+968,24,Belo Horizonte,MG,2023-10-28
+969,26,Rio de Janeiro,PR,2023-06-15
+970,49,Belo Horizonte,RJ,2023-11-24
+971,53,Salvador,MG,2023-12-29
+972,60,Salvador,RJ,2023-04-25
+973,37,Belo Horizonte,RJ,2023-07-13
+974,18,Salvador,PR,2023-04-01
+975,20,Rio de Janeiro,BA,2023-10-18
+976,57,Rio de Janeiro,BA,2023-06-12
+977,49,Rio de Janeiro,MG,2023-02-23
+978,33,Belo Horizonte,MG,2023-02-09
+979,58,São Paulo,MG,2023-03-27
+980,18,Belo Horizonte,RJ,2023-08-17
+981,22,Belo Horizonte,MG,2023-05-08
+982,18,São Paulo,PR,2023-02-25
+983,44,Rio de Janeiro,PR,2023-08-13
+984,42,Belo Horizonte,BA,2023-09-10
+985,24,Curitiba,BA,2023-07-12
+986,32,Rio de Janeiro,PR,2023-11-30
+987,20,Belo Horizonte,SP,2023-02-07
+988,34,São Paulo,SP,2023-06-13
+989,28,Curitiba,RJ,2023-06-25
+990,53,São Paulo,MG,2023-02-08
+991,57,Curitiba,SP,2023-11-01
+992,59,Rio de Janeiro,BA,2023-08-09
+993,28,São Paulo,SP,2023-08-11
+994,31,Rio de Janeiro,PR,2023-06-19
+995,53,Salvador,MG,2023-12-23
+996,36,Belo Horizonte,RJ,2023-12-05
+997,21,Curitiba,BA,2023-02-19
+998,49,Rio de Janeiro,SP,2023-10-09
+999,18,Curitiba,SP,2023-07-04
+1000,60,Salvador,PR,2023-05-31
